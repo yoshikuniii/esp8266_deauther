@@ -436,7 +436,7 @@
 
 // ===== ACCESS POINT ===== //
 #ifndef AP_SSID
-  #define AP_SSID "pwned"
+  #define AP_SSID "lolicon"
 #endif /* ifndef AP_SSID */
 
 #ifndef AP_PASSWD
